@@ -3,7 +3,7 @@ name = "SigmaOS-dependency-conflict-resolver"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dependency-conflict-resolver component"
+description = "Dependency Conflict Resolver"
 upstream = []
 
 [contract]
